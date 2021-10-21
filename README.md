@@ -1,2 +1,2 @@
-# PINGADATEST
-Test Server
+# MDWST
+ADA Stake Pool Server
